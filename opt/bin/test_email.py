@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from email.mime.text import MIMEText
 from subprocess import Popen, PIPE
 

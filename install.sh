@@ -1,6 +1,6 @@
 #!/bin/sh
 
 sudo ln -s ./opt/bin /opt
-ln -sf ./config/.vimrc ~/.vimrc
-ln -sf ./config/.screenrc ~/.screenrc
+ln -sf ~/embedded/config/.vimrc ~/.vimrc
+ln -sf ~/embedded/config/.screenrc ~/.screenrc
 
