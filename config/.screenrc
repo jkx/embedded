@@ -1,0 +1,9 @@
+startup_message off 
+termcapinfo xterm ti@:te@        # scroll
+#hardstatus alwayslastline "%w"   # statusbar
+hardstatus alwayslastline "%{ck}%?%-w%?[%n*%f %t]%?%+Lw%?%=| %D %d.%m.%y - %c "
+
+#idle 120
+#blankerprg cmatrix -absf
+defscrollback 5000
+escape ^Oo
