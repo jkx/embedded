@@ -3,6 +3,6 @@
 while true
 do
    clear
-   ./diag.sh
+   /opt/bin/diag.sh
    sleep 1
 done
